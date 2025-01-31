@@ -1,2 +1,2 @@
 # DEEP_LEARNING
-this repository is having content related to deep learning 
+this repository is having content related to deep learning algorithms
